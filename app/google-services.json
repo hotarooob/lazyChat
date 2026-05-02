@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "134735052710",
+    "project_id": "lazychat-197e2",
+    "storage_bucket": "lazychat-197e2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:134735052710:android:f7dee6306b4025b45bd967",
+        "android_client_info": {
+          "package_name": "com.lazygames.lazychat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzfB5JtGzv1zfDC7rz0TYm4qh_d7q-bBY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
